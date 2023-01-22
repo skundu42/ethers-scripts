@@ -1,4 +1,4 @@
-# Scripts to read Blockchain Data from Shardeum netowork
+# Scripts to read Blockchain Data from Shardeum network
 
 Examples of how to use EthersJS to query different blockchain parameters on Shardeum
 
@@ -7,7 +7,7 @@ Examples of how to use EthersJS to query different blockchain parameters on Shar
 ## Instructions
 
 ```
-1. Clone this repository
+1. git clone https://github.com/skundu42/ethers-scripts
 ```
 ```
 2. npm install
